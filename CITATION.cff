@@ -4,6 +4,8 @@ authors:
 - family-names: Hosseini, Haeri
   given-names: Sajad, Mohammad
 orcid: https://orcid.org/0009-0005-0603-9533
-title: Urban Traffic Network
+title: Required data for simulating a typical large-scale urban traffic network
+Publisher: Advanced Control System Lab, Sharif University of Technology
 version: 1.0.8
+doi: 10.5281/zenodo.10003399
 date-released: 2023-10-14
