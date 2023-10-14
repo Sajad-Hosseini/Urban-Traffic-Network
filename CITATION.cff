@@ -1,9 +1,26 @@
-cff-version: 1.0.0
-message: "If you use this dataset, please cite it as below."
-authors:
-- family-names: Hosseini
-  given-names: Sajad
-orcid: https://orcid.org/0009-0005-0603-9533
-title:
-version: 1.0.4
-date-released: 2023-10-14
+Copyright (c) 2023
+All rights reserved.
+
+Authors: 
+
+    Sajad Hosseini
+    Mohammad Haeri
+  
+Emails:
+
+    s.hosseini.njf@gmail.com
+    haeri@sharif.ir
+        
+Created:
+
+    October 2023
+        
+Last revision: 
+
+    2023-10-14
+    
+
+Redistribution and use in source, with or without modification, are permitted. But note that:
+
+- Must be referenced when used in a published work.
+- Leave the above info unchanged for feedback purposes.
