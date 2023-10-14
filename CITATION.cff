@@ -7,8 +7,10 @@ authors:
   given-names: Mohammad
 orcid: https://orcid.org/0009-0005-0603-9533
 title: Required data for simulating a typical large-scale urban traffic network
-publisher: Advanced Control System Lab, Sharif University of Technology
 type: dataset
 version: 1.0.8
 doi: 10.5281/zenodo.10003399
 date-released: 2023-10-14
+preferred-citation:
+  publisher:
+    name: "Advanced Control System Lab, Sharif University of Technology"
